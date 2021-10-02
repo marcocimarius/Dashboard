@@ -1,0 +1,17 @@
+.content {
+    padding: 50px 75px;
+    background-color: #f4f4f4;
+    margin: 0 -12px;
+}
+
+.heading {
+    border-bottom: 2px solid $-color--light-grey;
+}
+
+.tool-body {
+    width: 100%;
+    height: 500px;
+    background-color: #fff;
+    box-shadow: 0 0 20px $-color--light-grey; //primul parametru misca umbra orizontal, al doilea vertical, al 3lea param il blureaza, al 4lea il mareste
+    margin: 50px 0;
+}
